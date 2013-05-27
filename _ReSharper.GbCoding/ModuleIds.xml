@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="F6A5249D-D20F-4334-9911-74A3AF1573DB" ModuleId="GbCoding" />
+  <Module PersistentId="78DD6000-9D32-4B84-BFC8-3894C326AB1C" ModuleId="GbCoding.Refactorings.UnitTests" />
+  <Module PersistentId="Roslyn.Compilers.CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="Roslyn.Compilers.CSharp" />
+</Modules>

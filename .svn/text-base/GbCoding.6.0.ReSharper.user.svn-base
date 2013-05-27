@@ -1,0 +1,275 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/d:3rdParty/d:DictionaryFiles/f:en_US.dic" caret="187" fromTop="12" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:Extentions.cs" caret="648" fromTop="25" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="363" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="765" fromTop="19" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="490" fromTop="14" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="669" fromTop="20" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="1613" fromTop="16" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="1624" fromTop="25" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:Extentions.cs" caret="18" fromTop="0" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:Extentions.cs" caret="968" fromTop="33" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:Extentions.cs" caret="968" fromTop="13" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:Extentions.cs" caret="302" fromTop="11" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:Extentions.cs" caret="305" fromTop="7" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:Extentions.cs" caret="988" fromTop="39" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:Extentions.cs" caret="781" fromTop="22" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="1606" fromTop="23" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="2195" fromTop="27" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="2522" fromTop="29" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="1776" fromTop="16" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="2355" fromTop="14" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="1577" fromTop="20" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:SpellCheckCodeIssueProvider.cs" caret="2134" fromTop="29" />
+      <File id="F6A5249D-D20F-4334-9911-74A3AF1573DB/f:Extentions.cs" caret="577" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="typeof" priority="63" />
+      <Item value="Roslyn" priority="31" />
+      <Item value="Scripting" priority="26" />
+      <Item value="Compilers" priority="26" />
+      <Item value="CSharp" priority="26" />
+      <Item value="MethodDeclarationSyntax`0" priority="217" />
+      <Item value="if" priority="959" />
+      <Item value="var" priority="991" />
+      <Item value="node" priority="127" />
+      <Item value="yield return" priority="127" />
+      <Item value="new" priority="383" />
+      <Item value="CodeIssue" priority="86" />
+      <Item value="CodeIssue`0" priority="159" />
+      <Item value="method" priority="1151" />
+      <Item value="is" priority="31" />
+      <Item value="as" priority="31" />
+      <Item value="string" priority="638" />
+      <Item value="foreach" priority="223" />
+      <Item value="in" priority="223" />
+      <Item value="attributeSyntax" priority="95" />
+      <Item value="x" priority="95" />
+      <Item value="void" priority="31" />
+      <Item value="return" priority="575" />
+      <Item value="null" priority="287" />
+      <Item value="public" priority="95" />
+      <Item value="UnitTests" priority="28" />
+      <Item value="editFactory" priority="31" />
+      <Item value="document" priority="31" />
+      <Item value="SyntaxKind`0" priority="127" />
+      <Item value="cancellationToken" priority="31" />
+      <Item value="semanticModel" priority="31" />
+      <Item value="Syntax`0" priority="543" />
+      <Item value="default" priority="127" />
+      <Item value="SyntaxList" priority="31" />
+      <Item value="AttributeDeclarationSyntax`0" priority="31" />
+      <Item value="attributeList" priority="31" />
+      <Item value="newMethod" priority="31" />
+      <Item value="NameSyntax`0" priority="31" />
+      <Item value="SimpleNameSyntax`0" priority="31" />
+      <Item value="IdentifierNameSyntax`0" priority="31" />
+      <Item value="SyntaxTree`0" priority="31" />
+      <Item value="SyntaxToken`0" priority="127" />
+      <Item value="SyntaxTokenList`0" priority="31" />
+      <Item value="SeparatedSyntaxList&lt;AttributeSyntax&gt;" priority="28" />
+      <Item value="SyntaxNode`0" priority="60" />
+      <Item value="attributeToken" priority="63" />
+      <Item value="attributeDeclaration" priority="31" />
+      <Item value="SeparatedSyntaxList" priority="31" />
+      <Item value="AttributeSyntax`0" priority="31" />
+      <Item value="attributeSyntaxList" priority="31" />
+      <Item value="VariableDeclarationSyntax`0" priority="26" />
+      <Item value="variable" priority="127" />
+      <Item value="DiagnosticSeverity`0" priority="31" />
+      <Item value="TypeKind`0" priority="31" />
+      <Item value="nodes" priority="31" />
+      <Item value="VariableDeclarator" priority="16" />
+      <Item value="syntaxNode" priority="117" />
+      <Item value="fullVariableName" priority="63" />
+      <Item value="private" priority="31" />
+      <Item value="bool" priority="31" />
+      <Item value="varName" priority="63" />
+      <Item value="false" priority="63" />
+      <Item value="text" priority="95" />
+      <Item value="varPieces" priority="31" />
+      <Item value="continue" priority="127" />
+      <Item value="piece" priority="95" />
+      <Item value="List" priority="124" />
+      <Item value="List&lt;string&gt;" priority="28" />
+      <Item value="char" priority="95" />
+      <Item value="static" priority="63" />
+      <Item value="this" priority="31" />
+      <Item value="for" priority="31" />
+      <Item value="word" priority="319" />
+      <Item value="letter" priority="159" />
+      <Item value="using" priority="30" />
+      <Item value="System" priority="62" />
+      <Item value="Text" priority="26" />
+      <Item value="String`0" priority="26" />
+      <Item value="wordList" priority="95" />
+      <Item value="true" priority="31" />
+      <Item value="words" priority="63" />
+      <Item value="wordsInVariableName" priority="127" />
+      <Item value="yield break" priority="31" />
+      <Item value="correctSpelling" priority="63" />
+      <Item value="NHunspell" priority="31" />
+      <Item value="Hunspell`0" priority="26" />
+      <Item value="Hunspell" priority="28" />
+      <Item value="hunspell" priority="127" />
+      <Item value="suggestions" priority="63" />
+      <Item value="byte" priority="124" />
+      <Item value="AssemblyBytesReference`0" priority="31" />
+      <Item value="GbCoding" priority="31" />
+      <Item value="CodeIssueProvider`0" priority="26" />
+      <Item value="stream" priority="127" />
+      <Item value="affData" priority="95" />
+      <Item value="Length" priority="26" />
+      <Item value="RetrieveEmbeddedResourceFile`0" priority="31" />
+      <Item value="affFile" priority="31" />
+      <Item value="dicFile" priority="31" />
+      <Item value="resourceAssemblyName" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Roslyn.Services.Editor.CodeIssue">
+      <Item value="Severity`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Roslyn.Services.Editor.CodeIssue+Severity">
+      <Item value="Info" priority="107" />
+      <Item value="Warning" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.CSharp.MethodDeclarationSyntax">
+      <Item value="Span" priority="53" />
+      <Item value="GetText`0" priority="53" />
+      <Item value="Identifier" priority="130" />
+      <Item value="Attributes" priority="242" />
+      <Item value="Parent" priority="26" />
+      <Item value="ReplaceToken`1" priority="26" />
+      <Item value="GetFirstToken`0" priority="53" />
+      <Item value="GetType`0" priority="26" />
+      <Item value="GetFirstDirective`0" priority="26" />
+      <Item value="ReturnType" priority="26" />
+      <Item value="ExplicitInterfaceSpecifierOpt" priority="26" />
+      <Item value="TypeParameterListOpt" priority="26" />
+      <Item value="ParameterList" priority="26" />
+      <Item value="ConstraintClauses" priority="26" />
+      <Item value="BodyOpt" priority="26" />
+      <Item value="SemicolonTokenOpt" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="StartsWith`0" priority="81" />
+      <Item value="Contains`0" priority="53" />
+      <Item value="Trim`0" priority="53" />
+      <Item value="Length" priority="107" />
+      <Item value="Split`0" priority="26" />
+      <Item value="SplitToWords`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="162" />
+      <Item value="Intern`0" priority="26" />
+      <Item value="Empty" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.CSharp.SyntaxToken">
+      <Item value="ValueText" priority="108" />
+      <Item value="Value" priority="53" />
+      <Item value="Span" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.CSharp.AttributeDeclarationSyntax">
+      <Item value="Kind" priority="22" />
+      <Item value="GetText`0" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.CSharp.SyntaxList`1">
+      <Item value="Any`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Roslyn.Compilers.CSharp.SyntaxKind">
+      <Item value="MethodDeclaration" priority="26" />
+      <Item value="Attribute" priority="53" />
+      <Item value="OpenBracketToken" priority="26" />
+      <Item value="ConstKeyword" priority="22" />
+      <Item value="NamespaceKeyword" priority="27" />
+      <Item value="VariableDeclaration" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Services.IDocument">
+      <Item value="GetSemanticModel`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.Common.ISemanticModel">
+      <Item value="GetSemanticInfo`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Roslyn.Compilers.CSharp.Syntax">
+      <Item value="MethodDeclaration`0" priority="26" />
+      <Item value="AttributeArgumentList`0" priority="26" />
+      <Item value="Token`0" priority="53" />
+      <Item value="Attribute`0" priority="54" />
+      <Item value="AttributeDeclaration`0" priority="49" />
+      <Item value="NamespaceDeclaration`0" priority="26" />
+      <Item value="AttributeTargetSpecifier`0" priority="26" />
+      <Item value="ParseName`0" priority="26" />
+      <Item value="SeparatedList`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Roslyn.Compilers.CSharp.SyntaxTree">
+      <Item value="Create`0" priority="26" />
+      <Item value="ParseCompilationUnit`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Roslyn.Compilers.CSharp.SyntaxToken">
+      <Item value="Any" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.CSharp.VariableDeclarationSyntax">
+      <Item value="GetText`0" priority="49" />
+      <Item value="Span" priority="26" />
+      <Item value="Variables" priority="22" />
+      <Item value="GetFirstToken`0" priority="22" />
+      <Item value="Type" priority="26" />
+      <Item value="ChildNodes`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Roslyn.Compilers.DiagnosticSeverity">
+      <Item value="Info" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Where`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.CSharp.SyntaxNode">
+      <Item value="Kind" priority="49" />
+      <Item value="Span" priority="26" />
+      <Item value="GetFirstToken`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Char">
+      <Item value="IsUpper`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="53" />
+      <Item value="Count" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHunspell.Hunspell">
+      <Item value="Spell`0" priority="54" />
+      <Item value="Suggest`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetExecutingAssembly`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="GetManifestResourceStream`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Read`0" priority="53" />
+      <Item value="Length" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

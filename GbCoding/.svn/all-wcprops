@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/GbCoding
+END
+source.extension.vsixmanifest
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/GbCoding/source.extension.vsixmanifest
+END
+GbCoding.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/GbCoding/GbCoding.csproj
+END
+SpellCheckCodeIssueProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/GbCoding/SpellCheckCodeIssueProvider.cs
+END
+Extentions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/GbCoding/Extentions.cs
+END
+GbCoding.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/GbCoding/GbCoding.csproj.user
+END
